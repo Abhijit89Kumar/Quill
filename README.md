@@ -42,5 +42,3 @@ All processing happens locally on your machine using Ollama.
 
 ---
 Made with ❤️ for better writing
-
-Would you like me to add any other sections to the README?
